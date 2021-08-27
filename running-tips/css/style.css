@@ -34,4 +34,41 @@
 .main {
     background: #ccc;
     flex: 1;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100vw;
+    box-sizing: border-box;
+}
+
+.main__content {
+    width: calc(100vw / 3);
+    color: white;
+}
+
+.main__content-2, .main__content__div1-img, .main__content__div2-img  {
+    height: 100%;
+    width: 100%;
+}
+
+.main__content__div1, .main__content__div2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+.main__content__div1-img {
+}
+
+.main__content__div1-p {
+    background: #604043;
+    height: 100%;
+}
+
+.main__content__div2-p {
+    background: #3DA9C9;
+    height: 100%;
 }
