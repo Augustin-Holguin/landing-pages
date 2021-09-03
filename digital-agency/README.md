@@ -1,5 +1,5 @@
 # Digital agency
-Based on this template -> https://nicepage.com/fr/website-mockup/preview/10-conseils-pour-courir-90053?device=desktop
+Based on this template -> https://nicepage.com/css-templates/preview/create-website-522340?device=desktop
 
 Stack: HTML & CSS
 
